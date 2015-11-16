@@ -1,0 +1,28 @@
+{
+  "name": "seed-flatten",
+  "version": "1.0.0",
+  "description": "Flatten nested arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seedalpha/flatten.git"
+  },
+  "keywords": [
+    "flatten",
+    "array",
+    "recursive"
+  ],
+  "author": "Vladimir Popov <vlad@seedalpha.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seedalpha/flatten/issues"
+  },
+  "homepage": "https://github.com/seedalpha/flatten",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3"
+  }
+}

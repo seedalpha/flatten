@@ -1,6 +1,6 @@
 {
-  "name": "seed-flatten",
-  "version": "1.0.0",
+  "name": "@seedalpha/flatten",
+  "version": "1.0.10",
   "description": "Flatten nested arrays",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,6 @@
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.3"
-  }
+  },
+  "dependencies": []
 }
